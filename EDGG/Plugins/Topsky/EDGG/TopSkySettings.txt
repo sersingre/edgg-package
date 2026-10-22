@@ -71,9 +71,9 @@ Color_Track_Default=130,130,130
 Color_Track_Highlight=0,0,255
 Color_TSA_Border_Highlight=0,0,0
 Color_TSA_Filter=0,0,255
-Color_Urgency=255,0,0
-Color_Urgency_FL=255,0,0
-Color_VFR=180,150,95
+Color_Urgency=0,0,0
+Color_Urgency_FL=0,0,0
+Color_VFR=0,0,0
 Color_Warning=250,162,0
 Color_Warning_FL=250,162,0
 Color_Weather_Map=100,100,100
@@ -324,123 +324,123 @@ WXR_Echo_dBZ_Hi=50
 WXR_Echo_dBZ_Med=30
 WXR_Echo_dBZ_Lo=25
 
-[_CTR]
-Color_Assumed=0,0,0
-Color_Concerned=15,120,200
-Color_Unconcerned=204,127,166
-Color_Unknown=239,224,42
-Color_Redundant=110,110,110
-Color_Coordination=15,120,200
+// [_CTR]
+// Color_Assumed=0,0,0
+// Color_Concerned=15,120,200
+// Color_Unconcerned=204,127,166
+// Color_Unknown=239,224,42
+// Color_Redundant=110,110,110
+// Color_Coordination=15,120,200
 
-RDF_Mode=1
-RDF_Floor=1400
-RDF_Accuracy=3
+// RDF_Mode=1
+// RDF_Floor=1400
+// RDF_Accuracy=3
 
-Label_ADES_Default=1111
+// Label_ADES_Default=1111
 
-[_APP]
-MTCD=0
-AIW=0
+// [_APP]
+// MTCD=0
+// AIW=0
 
-Color_Assumed=0,0,0
-Color_Concerned=15,120,200
-Color_Unconcerned=204,127,166
-Color_Unknown=239,224,42
-Color_Redundant=110,110,110
-Color_Coordination=15,120,200
+// Color_Assumed=0,0,0
+// Color_Concerned=15,120,200
+// Color_Unconcerned=204,127,166
+// Color_Unknown=239,224,42
+// Color_Redundant=110,110,110
+// Color_Coordination=15,120,200
 
-Divergence_RAM=0
+// Divergence_RAM=0
 
-Track_PredictionLine=0
+// Track_PredictionLine=0
 
-[_DEP]
-MTCD=0
-AIW=0
+// [_DEP]
+// MTCD=0
+// AIW=0
 
-Color_Assumed=0,0,0
-Color_Concerned=15,120,200
-Color_Unconcerned=204,127,166
-Color_Unknown=239,224,42
-Color_Redundant=110,110,110
-Color_Coordination=15,120,200
+// Color_Assumed=0,0,0
+// Color_Concerned=15,120,200
+// Color_Unconcerned=204,127,166
+// Color_Unknown=239,224,42
+// Color_Redundant=110,110,110
+// Color_Coordination=15,120,200
 
-Divergence_RAM=0
+// Divergence_RAM=0
 
-Track_PredictionLine=0
+// Track_PredictionLine=0
 
-[EDDF_]
-Airspace_C_Flag=ETOU
-RDF_Mode=1
-RDF_Floor=1400
-RDF_Accuracy=3
+// [EDDF_]
+// Airspace_C_Flag=ETOU
+// RDF_Mode=1
+// RDF_Floor=1400
+// RDF_Accuracy=3
 
-[EDDL_]
-Airspace_C_Flag=EDLV,EDLN,ETNG
+// [EDDL_]
+// Airspace_C_Flag=EDLV,EDLN,ETNG
 
-[EDDK_]
-Airspace_C_Flag=ETNN,EDKB
+// [EDDK_]
+// Airspace_C_Flag=ETNN,EDKB
 
-[EDDS_]
-RDF_Mode=1
-RDF_Floor=1400
-RDF_Accuracy=3
+// [EDDS_]
+// RDF_Mode=1
+// RDF_Floor=1400
+// RDF_Accuracy=3
 
-[_FMP]
-List_Sector_Informed=1
-Color_Informed=15,120,200
-Color_Informed_2=61,132,69
-Color_Informed_3=0,0,0
-Color_Unconcerned=150,150,150
-Color_Unknown=150,150,150
-Setup_Informed=*:*:EDDF:1
-Setup_Informed=*:*:EDFE:1
-Setup_Informed=*:*:ETOU:1
-Setup_Informed=*:*:EDDL:2
-Setup_Informed=*:*:EDLN:2
-Setup_Informed=*:*:EDDK:2
-Setup_Informed=*:*:ETNN:2
-Setup_Informed=*:*:EDDG:3
-Setup_Informed=*:*:EDDR:3
-Setup_Informed=*:*:EDDS:3
-Setup_Informed=*:*:EDFH:3
-Setup_Informed=*:*:EDFM:3
-Setup_Informed=*:*:EDLP:3
-Setup_Informed=*:*:EDLV:3
-Setup_Informed=*:*:EDLW:3
-Setup_Informed=*:*:EDSB:3
-Setup_Informed=*:*:EDTL:3
-Setup_Informed=*:*:ETAD:3
-Setup_Informed=*:*:ETAR:3
-Setup_Informed=*:*:ETHN:3
-Setup_Informed=*:*:ETNG:3
-Setup_Informed=*:*:ETSB:3
-Setup_Informed=EDDF:*:*:3
-Setup_Informed=EDFE:*:*:3
-Setup_Informed=ETOU:*:*:3
-Setup_Informed=EDDL:*:*:3
-Setup_Informed=EDLN:*:*:3
-Setup_Informed=EDDK:*:*:3
-Setup_Informed=ETNN:*:*:3
-Setup_Informed=EDDG:*:*:3
-Setup_Informed=EDDR:*:*:3
-Setup_Informed=EDDS:*:*:3
-Setup_Informed=EDFH:*:*:3
-Setup_Informed=EDFM:*:*:3
-Setup_Informed=EDLP:*:*:3
-Setup_Informed=EDLV:*:*:3
-Setup_Informed=EDLW:*:*:3
-Setup_Informed=EDSB:*:*:3
-Setup_Informed=EDTL:*:*:3
-Setup_Informed=ETAD:*:*:3
-Setup_Informed=ETAR:*:*:3
-Setup_Informed=ETHN:*:*:3
-Setup_Informed=ETNG:*:*:3
-Setup_Informed=ETSB:*:*:3
-*:DEBHI,DINKU,DKB,ELMOX,GESLU,GUPIN,LEVBU:EDDM:3
-EDDM:ABTAL,AMOSA,GASKA,INBED,PELOG:*:3
-*:ERTES,KOMIB,LETKU,VELIS:EDDN:3
-EDDN:DKB,GASKA,GORKO,KOMIB,SUKAD,SULUS:*:3
-*:ERSET,MADET,RASPU,ROBEL:EDDE:3
-*:EMKIL,LOKTA,NATOR,GUPIN:EDNY:3
-*:EMKIL,IBINI,NATOR:LSZH:3
-*:BETEX,BITBU,EXCOS:ELLX:3
+// [_FMP]
+// List_Sector_Informed=1
+// Color_Informed=15,120,200
+// Color_Informed_2=61,132,69
+// Color_Informed_3=0,0,0
+// Color_Unconcerned=150,150,150
+// Color_Unknown=150,150,150
+// Setup_Informed=*:*:EDDF:1
+// Setup_Informed=*:*:EDFE:1
+// Setup_Informed=*:*:ETOU:1
+// Setup_Informed=*:*:EDDL:2
+// Setup_Informed=*:*:EDLN:2
+// Setup_Informed=*:*:EDDK:2
+// Setup_Informed=*:*:ETNN:2
+// Setup_Informed=*:*:EDDG:3
+// Setup_Informed=*:*:EDDR:3
+// Setup_Informed=*:*:EDDS:3
+// Setup_Informed=*:*:EDFH:3
+// Setup_Informed=*:*:EDFM:3
+// Setup_Informed=*:*:EDLP:3
+// Setup_Informed=*:*:EDLV:3
+// Setup_Informed=*:*:EDLW:3
+// Setup_Informed=*:*:EDSB:3
+// Setup_Informed=*:*:EDTL:3
+// Setup_Informed=*:*:ETAD:3
+// Setup_Informed=*:*:ETAR:3
+// Setup_Informed=*:*:ETHN:3
+// Setup_Informed=*:*:ETNG:3
+// Setup_Informed=*:*:ETSB:3
+// Setup_Informed=EDDF:*:*:3
+// Setup_Informed=EDFE:*:*:3
+// Setup_Informed=ETOU:*:*:3
+// Setup_Informed=EDDL:*:*:3
+// Setup_Informed=EDLN:*:*:3
+// Setup_Informed=EDDK:*:*:3
+// Setup_Informed=ETNN:*:*:3
+// Setup_Informed=EDDG:*:*:3
+// Setup_Informed=EDDR:*:*:3
+// Setup_Informed=EDDS:*:*:3
+// Setup_Informed=EDFH:*:*:3
+// Setup_Informed=EDFM:*:*:3
+// Setup_Informed=EDLP:*:*:3
+// Setup_Informed=EDLV:*:*:3
+// Setup_Informed=EDLW:*:*:3
+// Setup_Informed=EDSB:*:*:3
+// Setup_Informed=EDTL:*:*:3
+// Setup_Informed=ETAD:*:*:3
+// Setup_Informed=ETAR:*:*:3
+// Setup_Informed=ETHN:*:*:3
+// Setup_Informed=ETNG:*:*:3
+// Setup_Informed=ETSB:*:*:3
+// *:DEBHI,DINKU,DKB,ELMOX,GESLU,GUPIN,LEVBU:EDDM:3
+// EDDM:ABTAL,AMOSA,GASKA,INBED,PELOG:*:3
+// *:ERTES,KOMIB,LETKU,VELIS:EDDN:3
+// EDDN:DKB,GASKA,GORKO,KOMIB,SUKAD,SULUS:*:3
+// *:ERSET,MADET,RASPU,ROBEL:EDDE:3
+// *:EMKIL,LOKTA,NATOR,GUPIN:EDNY:3
+// *:EMKIL,IBINI,NATOR:LSZH:3
+// *:BETEX,BITBU,EXCOS:ELLX:3

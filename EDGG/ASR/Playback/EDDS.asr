@@ -1,0 +1,22 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Documents\EuroScope Playback 3\EDGG-FULL_Playback.sct
+SECTORTITLE:EDGG-FULL_Playback.sct
+Regions:EDDS Groundlayout:polygon
+Regions:EDDS Holdshorts:polygon
+Regions:EDDS Holdshorts CATII_III:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:2500
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:0.00000
+TAGFAMILY:EDGG_Playback_Ground
+WINDOWAREA:48.660727:9.132449:48.719425:9.303115

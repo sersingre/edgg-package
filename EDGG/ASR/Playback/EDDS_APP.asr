@@ -1,0 +1,32 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Documents\EuroScope Playback 3\EDGG-FULL_Playback.sct
+SECTORTITLE:EDGG-FULL_Playback.sct
+ARTCC low boundary:Tower CTR EDDS:
+ARTCC low boundary:Tower CTR EDSB:
+ARTCC low boundary:Tower CTR EDTL (HX):
+Runways:EDDS 07-25:centerline
+Runways:EDSB 03-21:centerline
+Runways:EDTL 03-21:centerline
+Runways:EDTY 10-28:centerline
+VORs:DKB:symbol
+VORs:KRH:symbol
+VORs:LBU:symbol
+VORs:STG:symbol
+VORs:SUL:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:3000
+ABOVE:14500
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:0.00000
+TAGFAMILY:EDGG_Playback
+WINDOWAREA:47.599596:6.434472:49.383141:11.620143
+PLUGIN:TopSky plugin:ShowMapData:EDDS_APP

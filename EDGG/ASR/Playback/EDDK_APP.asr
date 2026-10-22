@@ -1,0 +1,35 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Documents\EuroScope Playback 3\EDGG-FULL_Playback.sct
+SECTORTITLE:EDGG-FULL_Playback.sct
+ARTCC boundary:AoR APP EDDK:
+ARTCC boundary:AoR APP EDDL:
+ARTCC high boundary:EDUU Sectors:
+ARTCC high boundary:EDYY Neighbour:
+ARTCC low boundary:AoR TWR ETNG:
+ARTCC low boundary:Tower CTR EDDK:
+ARTCC low boundary:Tower CTR EDDL:
+ARTCC low boundary:Tower CTR ETNN (HX):
+Runways:EDDK 06-24:centerline
+Runways:EDDK 14L-32R:centerline
+Runways:EDDK 14R-32L:centerline
+Runways:EDDL 05L-23R:centerline
+Runways:EDDL 05R-23L:centerline
+Runways:EDLN 13-31:centerline
+Runways:ETNG 09-27:centerline
+SHOWC:1
+SHOWSB:0
+BELOW:400
+ABOVE:0
+LEADER:-3
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:EDGG_Playback
+WINDOWAREA:49.962339:3.489480:52.346391:10.421132
+PLUGIN:TopSky plugin:ShowMapData:EDDK,ETNG
